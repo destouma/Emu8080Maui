@@ -1,0 +1,12 @@
+/Users/destouma/Development/PERSO/EMULATORS/manu/Emu8080Maui/Emu8080Core/bin/Debug/net7.0/Emu8080Core.deps.json
+/Users/destouma/Development/PERSO/EMULATORS/manu/Emu8080Maui/Emu8080Core/bin/Debug/net7.0/Emu8080Core.dll
+/Users/destouma/Development/PERSO/EMULATORS/manu/Emu8080Maui/Emu8080Core/bin/Debug/net7.0/Emu8080Core.pdb
+/Users/destouma/Development/PERSO/EMULATORS/manu/Emu8080Maui/Emu8080Core/obj/Debug/net7.0/Emu8080Core.csproj.AssemblyReference.cache
+/Users/destouma/Development/PERSO/EMULATORS/manu/Emu8080Maui/Emu8080Core/obj/Debug/net7.0/Emu8080Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/destouma/Development/PERSO/EMULATORS/manu/Emu8080Maui/Emu8080Core/obj/Debug/net7.0/Emu8080Core.AssemblyInfoInputs.cache
+/Users/destouma/Development/PERSO/EMULATORS/manu/Emu8080Maui/Emu8080Core/obj/Debug/net7.0/Emu8080Core.AssemblyInfo.cs
+/Users/destouma/Development/PERSO/EMULATORS/manu/Emu8080Maui/Emu8080Core/obj/Debug/net7.0/Emu8080Core.csproj.CoreCompileInputs.cache
+/Users/destouma/Development/PERSO/EMULATORS/manu/Emu8080Maui/Emu8080Core/obj/Debug/net7.0/Emu8080Core.dll
+/Users/destouma/Development/PERSO/EMULATORS/manu/Emu8080Maui/Emu8080Core/obj/Debug/net7.0/refint/Emu8080Core.dll
+/Users/destouma/Development/PERSO/EMULATORS/manu/Emu8080Maui/Emu8080Core/obj/Debug/net7.0/Emu8080Core.pdb
+/Users/destouma/Development/PERSO/EMULATORS/manu/Emu8080Maui/Emu8080Core/obj/Debug/net7.0/ref/Emu8080Core.dll

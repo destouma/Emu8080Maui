@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Emu8080Core
-build_property.ProjectDir = /Users/destouma/Development/PERSO/EMULATORS/manu/Emu8080Maui/Emu8080Core/
+build_property.ProjectDir = D:\Development\PERSO\Emu8080Maui\Emu8080Core\

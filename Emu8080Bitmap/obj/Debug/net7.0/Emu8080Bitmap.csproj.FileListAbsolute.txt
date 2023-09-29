@@ -10,3 +10,15 @@
 /Users/destouma/Development/PERSO/EMULATORS/manu/Emu8080Maui/Emu8080Bitmap/obj/Debug/net7.0/refint/Emu8080Bitmap.dll
 /Users/destouma/Development/PERSO/EMULATORS/manu/Emu8080Maui/Emu8080Bitmap/obj/Debug/net7.0/Emu8080Bitmap.pdb
 /Users/destouma/Development/PERSO/EMULATORS/manu/Emu8080Maui/Emu8080Bitmap/obj/Debug/net7.0/ref/Emu8080Bitmap.dll
+D:\Development\PERSO\Emu8080Maui\Emu8080Bitmap\bin\Debug\net7.0\Emu8080Bitmap.deps.json
+D:\Development\PERSO\Emu8080Maui\Emu8080Bitmap\bin\Debug\net7.0\Emu8080Bitmap.dll
+D:\Development\PERSO\Emu8080Maui\Emu8080Bitmap\bin\Debug\net7.0\Emu8080Bitmap.pdb
+D:\Development\PERSO\Emu8080Maui\Emu8080Bitmap\obj\Debug\net7.0\Emu8080Bitmap.csproj.AssemblyReference.cache
+D:\Development\PERSO\Emu8080Maui\Emu8080Bitmap\obj\Debug\net7.0\Emu8080Bitmap.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\PERSO\Emu8080Maui\Emu8080Bitmap\obj\Debug\net7.0\Emu8080Bitmap.AssemblyInfoInputs.cache
+D:\Development\PERSO\Emu8080Maui\Emu8080Bitmap\obj\Debug\net7.0\Emu8080Bitmap.AssemblyInfo.cs
+D:\Development\PERSO\Emu8080Maui\Emu8080Bitmap\obj\Debug\net7.0\Emu8080Bitmap.csproj.CoreCompileInputs.cache
+D:\Development\PERSO\Emu8080Maui\Emu8080Bitmap\obj\Debug\net7.0\Emu8080Bitmap.dll
+D:\Development\PERSO\Emu8080Maui\Emu8080Bitmap\obj\Debug\net7.0\refint\Emu8080Bitmap.dll
+D:\Development\PERSO\Emu8080Maui\Emu8080Bitmap\obj\Debug\net7.0\Emu8080Bitmap.pdb
+D:\Development\PERSO\Emu8080Maui\Emu8080Bitmap\obj\Debug\net7.0\ref\Emu8080Bitmap.dll

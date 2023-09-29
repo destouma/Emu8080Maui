@@ -8,25 +8,32 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/Users/destouma/.nuget/packages/": {}
+    "C:\\Users\\Manuel DESTOUESSE\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/destouma/Development/PERSO/EMULATORS/manu/Emu8080Maui/Emu8080Core/Emu8080Core.csproj",
+      "projectUniqueName": "D:\\Development\\PERSO\\Emu8080Maui\\Emu8080Core\\Emu8080Core.csproj",
       "projectName": "Emu8080Core",
-      "projectPath": "/Users/destouma/Development/PERSO/EMULATORS/manu/Emu8080Maui/Emu8080Core/Emu8080Core.csproj",
-      "packagesPath": "/Users/destouma/.nuget/packages/",
-      "outputPath": "/Users/destouma/Development/PERSO/EMULATORS/manu/Emu8080Maui/Emu8080Core/obj/",
+      "projectPath": "D:\\Development\\PERSO\\Emu8080Maui\\Emu8080Core\\Emu8080Core.csproj",
+      "packagesPath": "C:\\Users\\Manuel DESTOUESSE\\.nuget\\packages\\",
+      "outputPath": "D:\\Development\\PERSO\\Emu8080Maui\\Emu8080Core\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/Users/destouma/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Manuel DESTOUESSE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "/usr/local/share/dotnet/library-packs": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -60,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }
